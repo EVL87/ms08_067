@@ -1,6 +1,6 @@
 <h1>MS08_067 Exploit Script - Updated 2021 - Python 3 Version</h1>
 
-This is an updated version of the super old MS08-067 Python 3 exploit script. Credit to @andyacer
+This is an updated version of the super old MS08-067 exploit script. Versionated to Python 3.
 
 Cloned and edited from this repository:
 https://github.com/andyacer/ms08_067
